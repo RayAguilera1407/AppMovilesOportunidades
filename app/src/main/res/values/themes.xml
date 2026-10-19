@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Activaciones" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#AD1457</item>
+    </style>
+</resources>
